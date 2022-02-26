@@ -2,7 +2,7 @@
   "name": "javascript_function-based_classes",
   "version": "1.0.0",
   "description": "javascript function-based classes examples",
-  "main": "JavaScript Function Based Classes.js",
+  "main": "JavaScript Function Based Classes.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
