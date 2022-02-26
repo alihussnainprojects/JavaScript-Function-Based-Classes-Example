@@ -126,7 +126,7 @@ function Teacher(experience, teachingMode, ...args) {
     args.forEach((element, index) => {
         this.arr[index] = element;
     })
-// yusyqwsi
+// yusyqwsifhgjhk
 }
 Teacher.prototype = Employee;
 var t1 = new Teacher('Kamran', '32', 'ISB', 'BBA', 'Teacher', '800', '3 Years', 'On-Campus', new Courses('FOG', '3'), new Courses());
